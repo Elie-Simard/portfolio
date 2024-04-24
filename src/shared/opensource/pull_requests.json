@@ -1,0 +1,33 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOLOdU1M5mMC4F",
+      "title": "branch testing",
+      "url": "https://github.com/Elie-Simard/BonLeBonPharma/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/152039923?v=4",
+        "url": "https://github.com/xynax739",
+        "login": "xynax739"
+      },
+      "createdAt": "2024-02-06T20:31:36Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "BonLeBonPharma",
+        "url": "https://github.com/Elie-Simard/BonLeBonPharma",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/104814268?v=4",
+          "login": "Elie-Simard",
+          "url": "https://github.com/Elie-Simard"
+        }
+      }
+    }
+  ],
+  "merged": 1,
+  "open": 0,
+  "totalCount": 1
+}

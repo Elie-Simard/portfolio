@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOLTKqvg",
+      "name": "AppGestionDeVols",
+      "createdAt": "2024-02-16T02:16:27Z",
+      "url": "https://github.com/Elie-Simard/AppGestionDeVols",
+      "description": "Application Java conçue pour faciliter la planification, le suivi et la modification des vols au sein d'une compagnie aérienne. Développée dans un cadre éducatif",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLesCCg",
+      "name": "BankApp",
+      "createdAt": "2024-03-11T12:54:17Z",
+      "url": "https://github.com/Elie-Simard/BankApp",
+      "description": "BankApp est une application composée d'une API RESTful développée avec Spring Boot, qui communique avec une interface utilisateur conçue en React. Ce projet illustre l'application pratique de la création d'APIs et la connexion à un front-end React, démontrant ainsi une approche full stack pour la gestion de données bancaires",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLqrghw",
+      "name": "CalculatriceAndroid",
+      "createdAt": "2024-04-06T14:08:49Z",
+      "url": "https://github.com/Elie-Simard/CalculatriceAndroid",
+      "description": "First Android App",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKodvbA",
+      "name": "RestaurantReservation",
+      "createdAt": "2023-11-02T17:23:50Z",
+      "url": "https://github.com/Elie-Simard/RestaurantReservation",
+      "description": "Ce projet back-end est un système de réservation conçu pour permettre aux clients de réserver une table en ligne. Il offre également des fonctionnalités pour la gestion des réservations, la modification du menu et l'envoi automatique d'e-mails de confirmation aux clients.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLebunw",
+      "name": "Vitamine",
+      "createdAt": "2024-03-10T23:33:14Z",
+      "url": "https://github.com/Elie-Simard/Vitamine",
+      "description": "Boutique de Vitamine",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}

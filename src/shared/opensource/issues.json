@@ -1,0 +1,27 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "I_kwDOAGaLk86FTKA4",
+      "closed": true,
+      "title": "java",
+      "createdAt": "2024-04-10T20:39:53Z",
+      "url": "https://github.com/simple-icons/simple-icons/issues/10799",
+      "number": 10799,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "simple-icons",
+        "url": "https://github.com/simple-icons/simple-icons",
+        "owner": {
+          "login": "simple-icons",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/29872746?v=4",
+          "url": "https://github.com/simple-icons"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "totalCount": 1
+}
