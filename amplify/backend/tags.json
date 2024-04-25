@@ -1,0 +1,10 @@
+{
+  "0": {
+    "Key": "user:Stack",
+    "Value": "{project-env}"
+  },
+  "1": {
+    "Key": "user:Application",
+    "Value": "{project-name}"
+  }
+}
