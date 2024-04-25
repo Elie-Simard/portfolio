@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import styled from "styled-components";
 
 import emailjs from "emailjs-com";
-import { FaGoogle } from "react-icons/fa";
+
 import { IoMdMail } from "react-icons/io";
 
 const SuccessMessage = styled.div`
@@ -99,12 +99,6 @@ const EmailAddress = styled.p`
   color: ${({ theme }) => (theme.name === "dark" ? "#ffffff" : "#333333")};
   white-space: nowrap; /* Prevent email from breaking into two lines */
   overflow: hidden; /* Hide overflow text */
-`;
-
-const GmailIcon = styled(FaGoogle)`
-  font-size: 20px;
-  color: #d14836;
-  margin-right: 10px;
 `;
 
 const ContactForm = () => {
