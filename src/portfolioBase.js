@@ -10,7 +10,7 @@ const seo = {
   title: "Portfolio d'Élie Simard",
   description: "",
   og: {
-    title: "Élie Simard's Portfolio",
+    title: "eliesimardPortfolio",
     type: "website",
     url: "http://eliesimard.dev/",
   },
