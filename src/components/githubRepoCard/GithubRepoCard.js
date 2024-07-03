@@ -36,7 +36,7 @@ export default function GithubRepoCard({ repo, theme }) {
             </p>
             {repo.name === "Vitamine" && (
               <a
-                href="https://main.d1han5k5aglnw8.amplifyapp.com/#/"
+                href="https://main.d1han5k5aglnw8.amplifyapp.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "#0366d6", marginLeft: "10px" }}
