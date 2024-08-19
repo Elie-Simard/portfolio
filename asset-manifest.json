@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.28438be1.css",
-    "main.js": "/static/js/main.2d1d250f.js",
+    "main.css": "/static/css/main.8ed808ba.css",
+    "main.js": "/static/js/main.e46b2fb4.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -38,6 +38,7 @@
     "static/media/animated_logo.svg": "/static/media/animated_logo.abd0b20ec83cb1f60d42.svg",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
+    "static/media/riopel-consultant-logo.png": "/static/media/riopel-consultant-logo.68c37995694ee7b2f8b4.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_designBASE.svg": "/static/media/ui_ux_designBASE.42a2cdaf132097cc499e.svg",
@@ -54,7 +55,7 @@
     "static/media/conservatoire_logo.png": "/static/media/conservatoire_logo.af9729a2895ecd78dc17.png",
     "static/media/legato_logo.png": "/static/media/legato_logo.227e72c7979187840ba3.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.967f31dad3158d5be07b.svg",
-    "static/media/github_logo.png": "/static/media/github_logo.15e591a7397b9ef45656.png",
+    "static/media/github_logo 2.png": "/static/media/github_logo 2.15e591a7397b9ef45656.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.547075a751cc15673246.jpg",
     "static/media/programmer.svg": "/static/media/programmer.d3060f7bf0527835d72e.svg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.911c595a22a28c7b6f78.svg",
@@ -68,17 +69,18 @@
     "static/media/feelingProud.svg": "/static/media/feelingProud.288e616ff8dc11bd4713.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.20b580f8784fe74e6e38.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.08bcc48d9a3783389c93.svg",
+    "static/media/github_logo.png": "/static/media/github_logo.3f2e4b82f0f59c60144a.png",
     "static/media/fullstack.svg": "/static/media/fullstack.32a1ffc74848a2ed7dbf.svg",
     "static/media/education.svg": "/static/media/education.d5cc42f042227db12468.svg",
     "index.html": "/index.html",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.28438be1.css.map": "/static/css/main.28438be1.css.map",
-    "main.2d1d250f.js.map": "/static/js/main.2d1d250f.js.map"
+    "main.8ed808ba.css.map": "/static/css/main.8ed808ba.css.map",
+    "main.e46b2fb4.js.map": "/static/js/main.e46b2fb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.28438be1.css",
-    "static/js/main.2d1d250f.js"
+    "static/css/main.8ed808ba.css",
+    "static/js/main.e46b2fb4.js"
   ]
 }
