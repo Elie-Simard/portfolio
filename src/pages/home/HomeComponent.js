@@ -7,6 +7,7 @@ import TopButton from "../../components/topButton/TopButton";
 import Educations from "../education/EducationComponent";
 import Projects from "../projects/Projects";
 import Contact from "../contact/ContactComponent";
+import Experience from "../experience/Experience";
 
 class Home extends Component {
   render() {
@@ -20,7 +21,11 @@ class Home extends Component {
         </div>
         <Educations theme={this.props.theme} showHeaderAndFooter={false} />
         <div>
-          <br /> <br /> <br /> <br /> <br />
+          <br /> <br /> <br /> <br />
+          <div>
+            <Experience theme={this.props.theme} showHeaderAndFooter={false} />
+          </div>
+          <br /> <br /> <br /> <br />
         </div>
         <Projects theme={this.props.theme} showHeaderAndFooter={false} />
         <div>

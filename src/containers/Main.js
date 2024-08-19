@@ -48,7 +48,11 @@ export default class Main extends Component {
             path="/experience"
             exact
             render={(props) => (
-              <Experience {...props} theme={this.props.theme} />
+              <Experience
+                {...props}
+                theme={this.props.theme}
+                showHeaderAndFooter={true}
+              />
             )}
           />
           <Route
